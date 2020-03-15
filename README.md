@@ -2,7 +2,7 @@
 # WRP Lounge Kodi Add-On Repository
 
 
-![logo](https://raw.githubusercontent.com/DWH-WFC/repository.wrp-metaplayer/master/icon.png)
+![logo](https://raw.githubusercontent.com/DWH-WFC/repository.repo.archive/master/icon.png)
 
 ***
 
